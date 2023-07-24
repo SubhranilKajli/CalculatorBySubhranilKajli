@@ -1,0 +1,27 @@
+.text-centre{
+    text-align: center;
+}
+
+.mx-auto{
+    
+    margin: auto;
+}
+.flex{
+    display: flex;
+
+}
+.flex-col{
+    flex-direction: column;
+
+}
+.item-centre{
+    align-items: center;
+}
+.row input{
+    padding: 10px 15px;
+    border: 2px solid black;
+    border-radius: 9px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    width: 245px;
+}

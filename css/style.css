@@ -1,0 +1,24 @@
+.button{
+    padding: 18px;
+    width: 56px;
+    margin: 0px 5px;
+    border: 2px solid rgb(61, 60, 60);
+    border-radius: 28px;
+    cursor: pointer;
+    font-family: 'Roboto', sans-serif;
+    background-color: rgb(102, 99, 99);
+    font-size: 15px;
+    color: white;
+}
+.row{
+    margin: 5px 0px;
+}
+.container{
+    background-color: black;
+    width: 290px;
+    border-radius: 10px;
+}
+
+.row input{
+    background-color: rgb(27, 206, 206);
+}
